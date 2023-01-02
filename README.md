@@ -18,3 +18,4 @@ Pattern:
 13.Flyweight  
 14.Observer  
 15.Template  
+![image](https://user-images.githubusercontent.com/80948966/210208634-1853845d-7d64-4cfc-b460-eabffd8af2ff.png)
